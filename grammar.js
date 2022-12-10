@@ -3,7 +3,6 @@ module.exports = grammar({
 
   rules: {
     source_file: ($) => repeat($._definition),
-
     _definition: ($) => token("xioco"),
   },
 });

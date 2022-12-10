@@ -1,6 +1,6 @@
 [package]
-name = "vulpi"
-version = "0.1.0"
+name = "vulpi-tree-sitter"
+version = "0.0.1"
 edition = "2021"
 
 [dependencies]
